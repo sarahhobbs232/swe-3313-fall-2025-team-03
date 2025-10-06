@@ -20,7 +20,7 @@ Meticulous and resilient learner with a passion for programming, inclusion, and 
 ---
 
 ## 🎓 Education
-**Bachelor of Science in Computer Science**  
+**Bachelor of Computer Game Design and Developement**  
 Kennesaw State University — May 2028  
 - Relevant Coursework: Data Structures, Algorithms, Database Systems, Game Design Theory, Development experience
 
