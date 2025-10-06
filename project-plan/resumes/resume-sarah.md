@@ -1,7 +1,7 @@
-# Professional Resume
+# Professional Resume - Sarah Hobbs
 
 **Software Developer | Database Analyst | Game Design Enthusiast**  
-📍 Kennesaw State University | ✉️ sarah.hobbs232@gmail.com | 🌐 Portfolio or GitHub
+📍 Kennesaw State University | ✉️ sarah.hobbs232@gmail.com | 🌐 [GitHub profile](https://github.com/sarahhobbs232)
 
 ---
 
