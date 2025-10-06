@@ -17,7 +17,7 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 
 ## Technology Section
 * We have chosen Python, Flask, and JSON to complete this project because of the simplicity and portability nature of the software.
-* click the link here -> [Technology Selection](https://github.com/sarahhobbs232/swe-3313-fall-2025-team-03/blob/main/project-plan/technology-selection/README.md)
+* click the link here -> [Technology Selection](project-plan/technology-selection/README.md)
 
 ## Gantt Chart
 * gantt chart
