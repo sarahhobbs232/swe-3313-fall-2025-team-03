@@ -6,7 +6,7 @@ Here you will find all of the artifacts, presentations, documentation, and sourc
 We will create a small e-commerce website using Python, Flask, and JSON to sell one of a kind potions!
 
 ## Read the team's resumes:
-* [Sarah Hobbs' Resume!](resumes/resume-sarah.md)
+* [Sarah Hobbs' Resume!](project-plan/resumes/resume-sarah.md)
 * this will be a link
 * this will be a link
 * this will be a link
