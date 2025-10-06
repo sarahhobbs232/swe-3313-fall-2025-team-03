@@ -17,7 +17,7 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 
 ## Technology Section
 * the tech section
-* click the link here (link to technology-section)
+* click the link here [Technology Selection](https://github.com/sarahhobbs232/swe-3313-fall-2025-team-03/blob/main/project-plan/technology-selection/README.md)
 
 ## Gantt Chart
 * gantt chart
