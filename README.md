@@ -12,8 +12,7 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 * [Eric Jones' Resume!](project-plan/resumes/resume-eric.md)
 
 ## Team Assignments
-* the assignments
-* click the link here -> (link to team-assignments)
+* [Assignments](project-plan/team-assignments/README.md)
 
 ## Technology Section
 * We have chosen Python, Flask, and JSON to complete this project because of the simplicity and portable nature of the software.
