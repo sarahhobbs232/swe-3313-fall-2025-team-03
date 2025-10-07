@@ -49,7 +49,7 @@ Kennesaw State University — *Expected Graduation: May 2028*
 ---
 
 ## 🗣️ Interests
-Automation, market psychology, AI experimentation, procedural game design, and exploring how algorithms mimic human intuition.
+Automation, AI experimentation, procedural game design, and exploring how algorithms mimic human intuition.
 
 ---
 
