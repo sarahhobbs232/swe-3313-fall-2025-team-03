@@ -86,14 +86,4 @@ Each member contributes to all major project phases while maintaining ownership 
 
 ---
 
-### 📁 File Structure Overview
-
-- `project-plan/team-assignments/README.md` — This document  
-- `project-plan/resumes/` — Individual Markdown resumes  
-- `project-plan/technology-selection/README.md` — Tech stack and rationale  
-- `project-plan/gantt-chart/` — GanttProject `.gan` and exported `.png` files  
-- `requirements/`, `ui-design/`, `technical-design/`, `src/` — To be completed in future phases  
-
----
-
 Together, our team aims to deliver a clean, user-friendly potion marketplace that demonstrates strong software engineering principles and teamwork.
