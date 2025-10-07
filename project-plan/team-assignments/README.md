@@ -81,7 +81,7 @@ Each member contributes to all major project phases while maintaining ownership 
 | **Currency precision (USD)** | Eric | Use Python `Decimal` type and enforce formatting to two decimals |
 | **Double-sell of unique items** | Hazim | Check inventory before commit; atomic write to JSON |
 | **JSON corruption or data loss** | Hazim | File locks and temp-rename write strategy |
-| **Markdown link errors** | Sarah | Run link verification before submission |
+| **Markdown link errors** | Kyle | Run link verification before submission |
 | **Schedule slip** | Sarah | Monitor Gantt predecessors and deadlines weekly |
 
 ---
