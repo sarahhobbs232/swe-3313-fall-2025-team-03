@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 Summary
-Meticulous and resilient learner with a passion for programming, mathematical reasoning, and game design theory. Adept at connecting concepts across STEM and civics domains, with strong analytical skills in debugging, recursion, and database systems.
+Motivated and detail-oriented Computer Science student with hands-on experience in software development, data structures, and system design. Passionate about building efficient, well-structured programs and improving user experience through clean code and problem-solving. Skilled in Java, Python, and C#, with a growing interest in full-stack development, automation, and scalable software solutions.
 
 ---
 
