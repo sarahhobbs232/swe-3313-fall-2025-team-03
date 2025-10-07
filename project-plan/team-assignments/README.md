@@ -8,7 +8,7 @@ Our team, **Eternal Elixers**, is building a potion-based e-commerce platform th
 
 | Name | KSU Email | Primary Role | Resume |
 |------|------------|---------------|--------|
-| **Sarah Hobbs** | shobbs17@students.kennesaw.edu | Project Manager / UX Designer | [View Resume](project-plan/resumes/resume-sarah.md) |
+| **Sarah Hobbs** | shobbs17@students.kennesaw.edu | Project Manager / UX Designer | [View Resume](../resumes/resume-sarah.md) |
 | **Eric Jones** | ejone254@student.kennesaw.edu | Backend Developer / API Lead | [View Resume](project-plan/resumes/resume-eric.md) |
 | **Kyle Kolb** | kkolb3@students.kennesaw.edu | Integration & Testing Lead | [View Resume](project-plan/resumes/resume-kyle.md) |
 | **Hazim Mahmood** | hmahmoo2@students.kennesaw.edu | Data & DevOps Engineer | [View Resume](project-plan/resumes/resume-hazim.md) |
