@@ -65,7 +65,7 @@ Each member contributes to all major project phases while maintaining ownership 
 ### 🧭 Collaboration Guidelines
 
 - **Meetings:** Twice per week (30–45 minutes) via GroupMe Calls  
-- **Communication:** Discord (primary) + GitHub Issues for tasks  
+- **Communication:** GroupMe (primary) + GitHub Issues for tasks  
 - **Branching Strategy:**  
   - `main` (protected) — stable code only  
   - `feature/*`, `fix/*`, `docs/*` branches for all work  
