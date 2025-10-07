@@ -19,6 +19,6 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 * [Technology Selection](project-plan/technology-selection/README.md)
 
 ## Gantt Chart
-* [Gantt chart]()
+* [Gantt chart](project-plan/gant-charts/Group-Gantt-Project.png)
 
 
