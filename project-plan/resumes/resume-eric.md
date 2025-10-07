@@ -1,6 +1,6 @@
 # Professional Resume – Eric Jones
 
-**Software Engineering Major | **  
+**Software Engineering Major **  
 📍 Kennesaw, Georgia | ✉️ ejone254@studenst.kennesaw.edu | 🌐 [GitHub](https://github.com/ericjonnes)
 
 ---
