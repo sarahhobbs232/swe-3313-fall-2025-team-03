@@ -1,4 +1,4 @@
-# Professional Resume
+# Professional Resume - Hazim Mahmood
 
 **Software Developer | Database Analyst | Game Design Enthusiast**  
 📍 Location | ✉️ hazimmahmood9798@gmail.com | 🌐 Portfolio or GitHub
