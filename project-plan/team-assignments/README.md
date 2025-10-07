@@ -8,10 +8,10 @@ Our team, **Eternal Elixers**, is building a potion-based e-commerce platform th
 
 | Name | KSU Email | Primary Role | Resume |
 |------|------------|---------------|--------|
-| **Sarah Hobbs** | shobbs17@students.kennesaw.edu | Project Manager / UX Designer | [View Resume](../resumes/sarah-hobbs.md) |
-| **Eric Jones** | ejone254@student.kennesaw.edu | Backend Developer / API Lead | [View Resume](../resumes/eric-jones.md) |
-| **Kyle Kolb** | kkolb3@students.kennesaw.edu | Integration & Testing Lead | [View Resume](../resumes/kyle-kolb.md) |
-| **Hazim Mahmood** | hmahmoo2@students.kennesaw.edu | Data & DevOps Engineer | [View Resume](../resumes/hazim-mahmood.md) |
+| **Sarah Hobbs** | shobbs17@students.kennesaw.edu | Project Manager / UX Designer | [View Resume](https://github.com/sarahhobbs232/swe-3313-fall-2025-team-03/blob/main/project-plan/resumes/resume-sarah.md) |
+| **Eric Jones** | ejone254@student.kennesaw.edu | Backend Developer / API Lead | [View Resume](https://github.com/sarahhobbs232/swe-3313-fall-2025-team-03/blob/main/project-plan/resumes/resume-eric.md) |
+| **Kyle Kolb** | kkolb3@students.kennesaw.edu | Integration & Testing Lead | [View Resume](https://github.com/sarahhobbs232/swe-3313-fall-2025-team-03/blob/main/project-plan/resumes/resume-kyle.md) |
+| **Hazim Mahmood** | hmahmoo2@students.kennesaw.edu | Data & DevOps Engineer | [View Resume](https://github.com/sarahhobbs232/swe-3313-fall-2025-team-03/blob/main/project-plan/resumes/resume-hazim.md) |
 
 Each member contributes to all major project phases while maintaining ownership over specific deliverables.
 
