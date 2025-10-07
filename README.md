@@ -7,9 +7,9 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 
 ## Read the team's resumes:
 * [Sarah Hobbs' Resume!](project-plan/resumes/resume-sarah.md)
-* this will be a link
-* this will be a link
-* this will be a link
+* [Hazim Mahmood's Resume!](project-plan/resumes/resume-hazim.md)
+* [Kyle Kolb's Resume](project-plan/resumes/resume-kyle.md)
+* Eric Jones' Resume!
 
 ## Team Assignments
 * the assignments
