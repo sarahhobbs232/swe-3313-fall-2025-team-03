@@ -19,8 +19,10 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 * [Technology Selection](project-plan/technology-selection/README.md)
 
 ## Gantt Chart
+* a visual representation of our deadlines!
 * [Gantt chart](project-plan/gant-charts/Group-Gantt-Project.png)
 
 ## Loom Video
+* a video going over our project so far!
 * [loom video](project-plan/Loom_Video)
 
