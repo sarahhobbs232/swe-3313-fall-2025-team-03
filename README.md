@@ -21,4 +21,6 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 ## Gantt Chart
 * [Gantt chart](project-plan/gant-charts/Group-Gantt-Project.png)
 
+## Loom Video
+* [loom video](project-plan/Loom_Video)
 
