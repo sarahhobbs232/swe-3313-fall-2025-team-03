@@ -24,5 +24,5 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 
 ## Loom Video
 * a video going over our project so far!
-* [loom video](project-plan/Loom_Video)
+* [loom video](project-plan/Loom_Video.md)
 
