@@ -1,7 +1,7 @@
 # 🧾 Requirements — Version 1  
 
-**Project:** Online Vinyl Store  
-**Team:** T3  
+**Project:** Eternal Elixirs (Online Potion Shop)
+**Team:** 03  
 **Version:** 1 (Must Have Features)
 
 ---
