@@ -3,4 +3,3 @@
 <img width="1625" height="454" alt="Payment_Confirm" src="https://github.com/user-attachments/assets/9e84440b-ae92-45a2-87b9-b60e1400cede" />
 <img width="1281" height="357" alt="Manage_Inventory" src="https://github.com/user-attachments/assets/2ff91def-c512-48a4-aa49-b326503b58d0" />
 <img width="1330" height="291" alt="View_Sales_Report" src="https://github.com/user-attachments/assets/aae7e626-7d7d-4866-ac3e-987ca9f1ce43" />
-[Decision_Table_Logic_Code.py](https://github.com/user-attachments/files/23108474/Decision_Table_Logic_Code.py)
