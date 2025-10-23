@@ -33,7 +33,7 @@ The detailed requirements that were elicited from the aforementioned conversatio
 
 ## 📊 Documentation Links 
 **Full Requirements:** 
-- Click [`here`](project-plan/requirements/REQUIREMENTS.md) for the full outline of the requirements.
+- Click [`here`](requirements/REQUIREMENTS.md) for the full outline of the requirements.
 
 **Use Case Diagram:**
 - Click [`here`](project-plan/requirements/use-case.md) for a detailed Use-Case Diagram for our project.
