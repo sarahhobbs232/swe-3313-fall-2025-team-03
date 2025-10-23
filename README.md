@@ -33,6 +33,6 @@ Overall, we deliver a full potion shopping experience with the help of intellige
 
 All requirements artifacts are located in the `/requirements` folder and linked below.
 -  **Full Requirements List:** [Version 1 Requirements](project-plan/requirements/README.md)
--  **Use Case Diagram:** [View Diagram](project-plan/requirements/use-case.md)
+-  **Use Case Diagram:** [View Diagram](project-plan/requirements/use-case.png)
 -  **Decision Table:** [View Decision Table](project-plan/requirements/decision-table.md)
 -  **Requirements Loom Presentation:** [Watch Here](project-plan/requirements/loom-vid.md)
