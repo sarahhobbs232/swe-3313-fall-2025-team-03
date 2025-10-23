@@ -28,7 +28,9 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 
 ## Requirements
 After meeting with our customer and reviewing their notes, we identified the essential **Version 1 (Must-Have)** functionalities for our online potion shop.  
+
 These include account management, browsing and searching inventory, secure checkout, order receipts, administrative reporting, and user interface mockups.  
+
 All requirements artifacts are located in the `/requirements` folder and linked below.
 -  **Introduction:** [Requirements Overview](project-plan/requirements/intro.md)
 -  **Full Requirements List:** [Version 1 Requirements](project-plan/requirements/README.md)
