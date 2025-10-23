@@ -19,10 +19,19 @@ We will create a small e-commerce website using Python, Flask, and JSON to sell 
 * [Technology Selection](project-plan/technology-selection/README.md)
 
 ## Gantt Chart
-* a visual representation of our deadlines!
+* A visual representation of our deadlines!
 * [Gantt chart](project-plan/gant-charts/Group-Gantt-Project.png)
 
 ## Loom Video
-* a video going over our project so far!
+* A video going over our project plan!
 * [loom video](project-plan/Loom_Video.md)
 
+## Requirements
+After meeting with our customer and reviewing their notes, we identified the essential **Version 1 (Must-Have)** functionalities for our online potion shop.  
+These include account management, browsing and searching inventory, secure checkout, order receipts, administrative reporting, and user interface mockups.  
+All requirements artifacts are located in the `/requirements` folder and linked below.
+-  **Introduction:** [Requirements Overview](../requirements/intro.md)
+-  **Full Requirements List:** [Version 1 Requirements](../requirements/README.md)
+-  **Use Case Diagram:** [View Diagram](../requirements/use-case.md)
+-  **Decision Table:** [View Decision Table](../requirements/decision-table.md)
+-  **Requirements Loom Presentation:** [Watch Here](../requirements/loom-link.md)
