@@ -34,6 +34,6 @@ These include account management, browsing and searching inventory, secure check
 All requirements artifacts are located in the `/requirements` folder and linked below.
 -  **Introduction:** [Requirements Overview](project-plan/requirements/intro.md)
 -  **Full Requirements List:** [Version 1 Requirements](project-plan/requirements/README.md)
--  **Use Case Diagram:** [View Diagram](project-plan/requirements/use-case)
--  **Decision Table:** [View Decision Table](project-plan/requirements/decision-table)
+-  **Use Case Diagram:** [View Diagram](project-plan/requirements/use-case.md)
+-  **Decision Table:** [View Decision Table](project-plan/requirements/decision-table.md)
 -  **Requirements Loom Presentation:** [Watch Here](project-plan/requirements/loom-vid.md)
