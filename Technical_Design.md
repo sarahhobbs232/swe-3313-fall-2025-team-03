@@ -72,21 +72,72 @@ Eternal Elixirs uses the following frameworks and libraries:
 
 # Entity Relationship Diagram
 
+<img width="468" height="214" alt="image" src="https://github.com/user-attachments/assets/3b9d8326-e391-4c72-9eb6-dbe08559d826" />
 
 
 ---
 
 # Entity/Field Descriptions
 
+<!-- User Entity -->
+<img width="468" height="116" alt="image" src="https://github.com/user-attachments/assets/7dde957e-d532-4220-9fd3-ad88ef34e42a" />
+
+<!-- Bill Entity -->
+<img width="469" height="106" alt="image" src="https://github.com/user-attachments/assets/99a68c40-e9cf-43b3-a948-f525e82581a1" />
+
+<!-- Bill Inventory Item Entity -->
+<img width="468" height="51" alt="image" src="https://github.com/user-attachments/assets/14323355-e00c-43e0-bfac-c6001efd3249" />
+
+<!-- Inventory Entity -->
+<img width="468" height="71" alt="image" src="https://github.com/user-attachments/assets/1823b380-3ebb-48fc-b852-ade87132adbf" />
+
+<!-- Shopping Cart Entity -->
+<img width="468" height="62" alt="image" src="https://github.com/user-attachments/assets/8cfc60d9-5d4b-414e-a0e1-73d7c4158838" />
+
+<!-- Shipping Entity -->
+<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/9d0b49f5-b299-4ce1-8ec1-699d3a6eeefa" />
+
+
+
+
+
 
 ---
 
 # Data Examples
 
+### User Table:
+
+<img width="468" height="35" alt="image" src="https://github.com/user-attachments/assets/ef0a3f08-acd8-473b-84ff-49d762bd0257" />
+
+### Shopping Cart Table:
+
+<img width="468" height="64" alt="image" src="https://github.com/user-attachments/assets/932e34c4-cf6b-458d-bb04-3611b79bed49" />
+
+### Bill Table
+
+<img width="468" height="68" alt="image" src="https://github.com/user-attachments/assets/3827d1e2-bf14-4254-952a-f49a3a46192f" />
+<img width="468" height="69" alt="image" src="https://github.com/user-attachments/assets/b46cf2bc-c5fb-443f-9e47-042cd7fd8f4e" />
+
+### Bill Inventory Item:
+
+<img width="468" height="80" alt="image" src="https://github.com/user-attachments/assets/aceb858f-dfef-4986-a14c-16a3613c6517" />
+
 
 ---
 
 # Database Seed Data
+
+### Inventory Table:
+<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/bd222902-833d-4700-bbc6-221edefac437" />
+
+### Shipping Table:
+
+<img width="468" height="78" alt="image" src="https://github.com/user-attachments/assets/9ad88fbd-9f50-4cd8-ba93-1703131ffb51" />
+
+### Admin Table:
+
+<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/cd077999-e672-4304-ab21-f86adcb7e86c" />
 
 
 ---
@@ -198,3 +249,4 @@ static/                # CSS, JS, images
 - Keep logic inside views small by separating it into helper functions.
 
 ---
+
