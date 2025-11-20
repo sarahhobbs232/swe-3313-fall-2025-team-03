@@ -40,3 +40,6 @@ All requirements artifacts are located in the `/requirements` folder and linked 
 ## Marvel Link
 * [Click Me!](https://marvelapp.com/prototype/g55cb1i)
 * [Click Me for Loom Video!](https://www.loom.com/share/22cb50d229174874a7ea18fee435b4f6)
+
+## Technical Design
+* [Technical Design Link](Technical_Design.md)
