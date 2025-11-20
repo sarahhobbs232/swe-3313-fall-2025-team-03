@@ -66,6 +66,33 @@ Eternal Elixirs uses the following frameworks and libraries:
 
 # Data Storage Plan
 
+### Storage Technology
+- We will store all data in a SQL Database
+- We will use SQLite, which stores the entire database in a single file `EternalElixers.db`.
+
+### Python Libraries & Tools
+- **Flask**: The main web framework for routing and rendering pages.
+- **sqlite3**: A built-in Python module that:
+     - Allows Python to connect to a SQLite database file.
+     - Allows the execution of SQL commands directly.
+     - Handles the committing changes in the database.
+
+### How the Application Stores & Accesses Data
+1. At startup, Flask imports the `sqllite3` module.
+2. The application opens a connection to `EternalElixers.db`
+   ```python
+   conn = sqlite3.connect("EternalElixers.db")
+   cursor = conn.cursor()
+   ```
+3. When the application starts for the first time, it runs our SQL database seed data to set up the database structure.
+4. When a user browses the site:
+      - The app runs SQL `SELECT` queries to read products, prices, inventory, etc.
+5. When a user adds an item to the shopping cart:
+      - Flask runs an `INSERT` statement into the `ShoppingCart` table.
+6. When the user checks out:
+      - Orders are stored using `INSERT` queries.
+      - Inventory is updated using `UPDATE` queries.
+7. All persistent data is stored in the SQLite database file, which Flask accesses using the `sqlite3` library.
 
 
 ---
@@ -249,4 +276,5 @@ static/                # CSS, JS, images
 - Keep logic inside views small by separating it into helper functions.
 
 ---
+
 
