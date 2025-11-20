@@ -37,9 +37,10 @@ All requirements artifacts are located in the `/requirements` folder and linked 
 -  **Decision Table:** [View Decision Table](project-plan/requirements/decision-table.md)
 -  **Requirements Loom Presentation:** [Watch Here](project-plan/requirements/loom-vid.md)
 
-## Marvel Link
-* [Click Me!](https://marvelapp.com/prototype/g55cb1i)
+## Marvel
+* [Marvel Link](https://marvelapp.com/prototype/g55cb1i)
 * [Click Me for Loom Video!](https://www.loom.com/share/22cb50d229174874a7ea18fee435b4f6)
 
 ## Technical Design
 * [Technical Design Link](Technical_Design.md)
+* [Click Me for Loom Video!]()
