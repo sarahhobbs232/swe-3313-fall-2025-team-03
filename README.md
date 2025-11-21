@@ -43,4 +43,4 @@ All requirements artifacts are located in the `/requirements` folder and linked 
 
 ## Technical Design
 * [Technical Design Link](Technical_Design.md)
-* [Click Me for Loom Video!]()
+* [Click Me for Loom Video!](https://www.loom.com/share/1aa5ae46dcae4936959268af5473b5ac)
