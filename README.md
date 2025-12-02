@@ -3,7 +3,7 @@
 Welcome to the project repository for **Team 03 - Eternal Elixers**!
 Here you will find all of the artifacts, presentations, documentation, and source code for our SWE 3313 class project!
 
-We will create a small e-commerce website using Python, Flask, and JSON to sell one of a kind potions!
+We will create a small e-commerce website using Python, Flask, and SQL to sell one of a kind potions!
 
 ## Read the team's resumes:
 * [Sarah Hobbs' Resume!](project-plan/resumes/resume-sarah.md)
