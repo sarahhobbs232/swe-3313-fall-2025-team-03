@@ -89,6 +89,7 @@ The terminal will display a local server address similar to:
 http://127.0.0.1:5000
 ```
 Copy this URL and open it in a web browser to use the application.
+
 ---
 ### Troubleshooting
 Python Command Not Found
