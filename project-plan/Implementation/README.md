@@ -44,13 +44,15 @@ Example (macOS):
 ```bash
 cd ~/Desktop/EternalElixers
 ```
-3. Create a Virtual Environment
+---
+### 3. Create a Virtual Environment
 ```bash
 python -m venv venv
 ```
 (Use py instead of python if required on your system.)
 
-4. Activate the Virtual Environment
+---
+### 4. Activate the Virtual Environment
 Windows:
 ```bash
 venv\Scripts\activate
@@ -61,12 +63,14 @@ source venv/bin/activate
 ```
 When activation is successful, (venv) will appear in your terminal prompt.
 
-5. Install Project Dependencies
+---
+### 5. Install Project Dependencies
 All required libraries (Flask, etc.) are installed automatically using:
 ```bash
 pip install -r requirements.txt
 ```
-Data Storage Setup
+---
+### Data Storage Setup
 This project uses SQLite, which is included with Python and requires no additional installation.
 
 When the application starts:
@@ -74,7 +78,8 @@ When the application starts:
 - The schema and seed data are loaded from EternalElixers.sql
 No manual database configuration is required.
 
-How to Start the Application
+---
+### How to Start the Application
 Ensure the virtual environment is activated, then run:
 ```bash
 python app.py
@@ -85,7 +90,7 @@ http://127.0.0.1:5000
 ```
 Copy this URL and open it in a web browser to use the application.
 ---
-Troubleshooting
+### Troubleshooting
 Python Command Not Found
 - Reinstall Python from python.org
 - Ensure Python is added to PATH (Windows)
