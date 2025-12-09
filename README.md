@@ -46,7 +46,7 @@ All requirements artifacts are located in the `/requirements` folder and linked 
 * [Click Me for Loom Video!](https://www.loom.com/share/1aa5ae46dcae4936959268af5473b5ac)
 
 ## Implementation
-* [Final Website Package](project-plan/Implementation/...)
+* [Final Website Package](project-plan/Implementation/README.md)
 ## Final Presentation
 * [Compile, Launching, and Run Through Presentation]()
 * [Marvel UI Design Comparison Presentation]()
