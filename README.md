@@ -47,7 +47,7 @@ All requirements artifacts are located in the `/requirements` folder and linked 
 
 ## Implementation
 * [Website Instructions](project-plan/Implementation/README.md)
-* [Download Project File Here](project-plan/Implementation/download project file here/Eternal Elixers.zip)
+* [Download Project File Here](project-plan/Implementation/download_project_file_here/ExternalElixers.zip)
 ## Final Presentation
 * [Compile, Launching, and Run Through Presentation pt.1](https://www.loom.com/share/af5b4526e538482f9fafb5c83ce70489)
 * [Compile, Launching, and Run Through Presentation pt.2](https://www.loom.com/share/dfec6d57494443d682c164bafd8e7da2)
